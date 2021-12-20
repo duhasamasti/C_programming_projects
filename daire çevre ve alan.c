@@ -15,8 +15,8 @@ int main(int argc, char *argv[]) {
 	circumference=2*pi*r;
 	area=pi*r^2;
 	
-	printf("circumference==> %f n\ area==> %f",circumference,area);
-	 
+	printf("circumference==> %f\n ",circumference);
+	printf("area==> %f",area);
 	
 	
 	
